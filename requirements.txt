@@ -1,5 +1,2 @@
 discord.py
-beautifulsoup4
-fuzzywuzzy
-openpyxl==2.5.12
-requests
+asyncio
